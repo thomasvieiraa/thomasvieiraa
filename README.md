@@ -1,32 +1,16 @@
-<div align="center">
-Olá, eu sou Thomas Vieira 👋
-Estudante de Ciência da Computação & Desenvolvedor em formação
-<p> <a href="https://github.com/thomasvieiraa"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> </a> <img src="https://img.shields.io/badge/Ciência%20da%20Computação-0077B6?style=flat-square"> <img src="https://img.shields.io/badge/Desenvolvimento-00A8E8?style=flat-square"> </p> </div>
-👨‍💻 Sobre mim
-Sou estudante de Ciência da Computação, interessado em desenvolvimento de software e tecnologia.
+## Thomas Vieira
+Estudante de Ciência da Computação, interessado em tecnologia, programação e desenvolvimento de software.
 
-Atualmente, trabalho como Auxiliar Administrativo na Universidade Positivo e busco, através dos estudos e de projetos pessoais, transformar o conhecimento adquirido na graduação em aplicações práticas.
+## Sobre mim
+Atualmente, trabalho como Auxiliar Administrativo na Universidade Positivo e curso Ciência da Computação. Busco constantemente aprimorar meus conhecimentos e transformar o que aprendo na graduação em projetos práticos.
 
-Gosto de aprender novas tecnologias, entender como as coisas funcionam e buscar soluções simples para problemas complexos.
+Tenho interesse em entender como as tecnologias funcionam, desenvolver soluções e evoluir continuamente minhas habilidades como desenvolvedor.
 
-🛠️ Tecnologias
-<div align="center">
-Linguagens
-<img src="https://skillicons.dev/icons?i=python,c,js" height="45"/>
-Desenvolvimento Web
-<img src="https://skillicons.dev/icons?i=html,css" height="45"/>
-Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/> </div>
-🎯 Interesses
-<div align="center">
-Desenvolvimento de Software · Desenvolvimento Web · Algoritmos · Lógica de Programação · Open Source
+## Tecnologias
+Tenho conhecimentos em HTML, CSS, JavaScript, Python e C. Atualmente, continuo aprofundando meus conhecimentos em programação, desenvolvimento web, algoritmos e lógica de programação.
 
-</div>
-📚 Atualmente
-🎓 Cursando Ciência da Computação
-💻 Desenvolvendo projetos para aprimorar minhas habilidades
-🌱 Aprofundando meus conhecimentos em programação
-🚀 Buscando oportunidades para aplicar meus conhecimentos na prática
-<div align="center">
-Vamos construir algo juntos? 🚀
-<a href="https://github.com/thomasvieiraa"> <img src="https://img.shields.io/badge/Visite%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
+## Interesses
+Tenho interesse em desenvolvimento de software, desenvolvimento web, programação, projetos acadêmicos e projetos open source.
+
+## Objetivo
+Meu objetivo é construir uma carreira na área de tecnologia, adquirir experiência prática e continuar evoluindo como desenvolvedor por meio de novos projetos, desafios e aprendizados.

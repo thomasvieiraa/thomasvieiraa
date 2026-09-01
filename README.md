@@ -12,5 +12,6 @@ Tenho conhecimentos em HTML, CSS, JavaScript, Python e C. Atualmente, continuo a
 ## Interesses
 Tenho interesse em desenvolvimento de software, desenvolvimento web, programação, projetos acadêmicos e projetos open source.
 
+
 ## Objetivo
-Meu objetivo é construir uma carreira na área de tecnologia, adquirir experiência prática e continuar evoluindo como desenvolvedor por meio de novos projetos, desafios e aprendizados.
+Meu objetivo é construir uma carreira na área de tecnologia, aplicando os conhecimentos adquiridos na Ciência da Computação em projetos práticos. Busco desenvolver minhas habilidades, adquirir experiência profissional, aprender novas tecnologias e contribuir para soluções eficientes.

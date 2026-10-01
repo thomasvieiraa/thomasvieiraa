@@ -18,8 +18,8 @@ Meu objetivo é construir uma carreira na área de tecnologia, aplicando os conh
 
 
 ##Contatos
-E-mail: thomevieira337@gmail.com ·
+E-mail: thomevieira337@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/thom%C3%A1s-vieira-499340336/ ·
+LinkedIn: https://www.linkedin.com/in/thom%C3%A1s-vieira-499340336/
 
 Instagram: @thomazz__v

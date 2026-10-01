@@ -17,7 +17,7 @@ Tenho interesse em desenvolvimento de software, desenvolvimento web, programaç�
 Meu objetivo é construir uma carreira na área de tecnologia, aplicando os conhecimentos adquiridos na Ciência da Computação em projetos práticos. Busco desenvolver minhas habilidades, adquirir experiência profissional, aprender novas tecnologias e contribuir para soluções eficientes.
 
 
-Contatos
+##Contatos
 E-mail: thomevieira337@gmail.com ·
 LinkedIn: https://www.linkedin.com/in/thom%C3%A1s-vieira-499340336/ ·
 Instagram: @thomazz__v
